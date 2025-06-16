@@ -1,5 +1,11 @@
 ### SYNCHRONOUS-UP-COUNTER
 
+Name: Abisheik Raj J 
+
+reg no:212224230006
+
+Date:06/05/2025
+
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
